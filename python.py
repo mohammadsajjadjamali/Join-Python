@@ -1,0 +1,2 @@
+print("Fuck Every Thing !")
+
